@@ -1,3 +1,9 @@
+/*
+ * Zachary Anderson
+ * M2 Data Reader
+ * 10/25/25
+ * 
+ */
 import java.io.*;
 
 public class DataReader {
