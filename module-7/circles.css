@@ -1,0 +1,26 @@
+.whiteBlackStroke {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+.circleborder{
+    -fx-stroke-width: 5;
+    -fx-stroke-dash-array: 12 2 4 2;
+}
+.border{
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
+
+#redCircle {
+    -fx-fill: red;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+#greenCircle {
+    -fx-fill: green;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
