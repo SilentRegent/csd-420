@@ -1,3 +1,10 @@
+/*
+Zachary Anderson
+Mod7 Assignment
+11/29/25
+CircleStyleDemo.java
+This program demonstrates styling circles using an external CSS stylesheet.
+*/
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
